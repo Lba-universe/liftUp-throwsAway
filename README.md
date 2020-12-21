@@ -1,25 +1,6 @@
-# Our Game 
-[Link to itch.io - enjoy the game](https://lba-universe.itch.io/baby-dragon-rumble)
+# Our Game - liftUp&Throwing away added
+[Link to itch.io - enjoy the game](https://lba-universe.itch.io/babydragon-liftupthrowsaway)
 
----
-
-**level 2**
-
-in this level we add fire ball when a player touch it he fly away.
-
-**using script:**
-
-BenMovement.cs [code here](https://github.com/Lba-universe/3D_Push/blob/master/Assets/Scripts/Movers/BenMovement.cs)
-
-PushHim.cs  [code here](https://github.com/Lba-universe/3D_Push/blob/master/Assets/Scripts/Attacks/PushForce.cs)
-
-TouchDetector.cs  [code here](https://github.com/Lba-universe/3D_Push/blob/master/Assets/Scripts/Collisions/TouchDetector.cs)
-
-***picture:***
-
-![](/pics/1.png)
-
----
 ---
 
 **level 3**
@@ -77,3 +58,23 @@ we using same scripts here too we just made it harder
 
 
 ---
+
+**level 5**
+
+in this level we add fire ball when a player touch it he fly away.
+
+**using script:**
+
+BenMovement.cs [code here](https://github.com/Lba-universe/3D_Push/blob/master/Assets/Scripts/Movers/BenMovement.cs)
+
+PushHim.cs  [code here](https://github.com/Lba-universe/3D_Push/blob/master/Assets/Scripts/Attacks/PushForce.cs)
+
+TouchDetector.cs  [code here](https://github.com/Lba-universe/3D_Push/blob/master/Assets/Scripts/Collisions/TouchDetector.cs)
+
+***picture:***
+
+![](/pics/1.png)
+
+---
+---
+
