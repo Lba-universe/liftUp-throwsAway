@@ -12,7 +12,7 @@ they will have more force and movement, you need to find a away to push them all
 
 Player:
 
-MoveByForce.cs [code here](https://github.com/Lba-universe/3D_Push/blob/master/Assets/Scripts/Movers/BenMovement.cs)
+MoveByForce.cs [code here](https://github.com/Lba-universe/liftUp-throwsAway/blob/master/Assets/Scripts/Movers/MoveByForce.cs)
 
 TouchDetector.cs  [code here](https://github.com/Lba-universe/3D_Push/blob/master/Assets/Scripts/Collisions/TouchDetector.cs)
 
@@ -71,7 +71,7 @@ all:
 
 liftAndThrowAway.cs [code here](https://github.com/Lba-universe/liftUp-throwsAway/blob/master/Assets/Scripts/Attacks/LiftUpAndThrowAway.cs)
 
-MoveByForce.cs [code here](https://github.com/Lba-universe/3D_Push/blob/master/Assets/Scripts/Movers/BenMovement.cs)
+MoveByForce.cs [code here]MoveByForce.cs [code here](https://github.com/Lba-universe/liftUp-throwsAway/blob/master/Assets/Scripts/Movers/MoveByForce.cs))
 
 PushHim.cs  [code here](https://github.com/Lba-universe/3D_Push/blob/master/Assets/Scripts/Attacks/PushForce.cs)
 
