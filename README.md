@@ -3,7 +3,7 @@
 
 ---
 
-**level 3**
+**level 1**
 
 in this level we have 4 enemys all of them trying to chase you, in a new Arena
 they will have more force and movement, you need to find a away to push them all off
@@ -41,7 +41,7 @@ DestroyOnTrigger.cs [code here](https://github.com/Lba-universe/3D_Push/blob/mas
 
 
 ---
-**level 4**
+**level 2**
 
 in this level we have alot of enemys all of them trying to chase you, in a new Arena
 they will have changing speed and force, you need to find a away to push them all off
@@ -61,7 +61,7 @@ we using same scripts here too we just made it harder
 
 ---
 
-**level 5**
+**level 3**
 
 in this level we add fire ball when a player touch it he fly away.
 
@@ -77,9 +77,9 @@ PushHim.cs  [code here](https://github.com/Lba-universe/3D_Push/blob/master/Asse
 
 TouchDetector.cs  [code here](https://github.com/Lba-universe/3D_Push/blob/master/Assets/Scripts/Collisions/TouchDetector.cs)
 
-***picture:***
 
-![](/pics/1.png)
+
+
 
 ---
 ---
