@@ -17,6 +17,7 @@ public class MoveByForce : MonoBehaviour
 
     [Range(0, 1f)]
     [SerializeField] float slowDownAtJump = 0.5f;
+    [SerializeField] float slowDown = 0.9f;
 
     private Rigidbody rb;
     private TouchDetector td;
@@ -60,7 +61,7 @@ public class MoveByForce : MonoBehaviour
             }
             if (direction.magnitude == 0)
             {
-                rb.velocity = new Vector3(rb.velocity.x * 0.99f, rb.velocity.y * 0.99f, rb.velocity.z * 0.99f); 
+                rb.velocity = new Vector3(rb.velocity.x * slowDown, rb.velocity.y * slowDown, rb.velocity.z * slowDown); 
             }
 
                 if (playerWantsToJump)
