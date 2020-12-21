@@ -52,11 +52,7 @@ we using same scripts here too we just made it harder
 
 ***picture:***
 
-![](https://github.com/Lba-universe/3D_Push/blob/master/pics/lvl%204.png)
 
-
----
-![](https://github.com/Lba-universe/3D_Push/blob/master/pics/lvl%204%20%20-b.png)
 
 
 ---
