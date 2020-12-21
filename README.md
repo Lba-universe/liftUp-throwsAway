@@ -12,11 +12,13 @@ they will have more force and movement, you need to find a away to push them all
 
 Player:
 
-BenMovement.cs [code here](https://github.com/Lba-universe/3D_Push/blob/master/Assets/Scripts/Movers/BenMovement.cs)
+MoveByForce.cs [code here](https://github.com/Lba-universe/3D_Push/blob/master/Assets/Scripts/Movers/BenMovement.cs)
 
 TouchDetector.cs  [code here](https://github.com/Lba-universe/3D_Push/blob/master/Assets/Scripts/Collisions/TouchDetector.cs)
 
 Enemys:
+
+liftAndThrowAway.cs [code here](https://github.com/Lba-universe/liftUp-throwsAway/blob/master/Assets/Scripts/Attacks/LiftUpAndThrowAway.cs)
 
 PushForce.cs [code here](https://github.com/Lba-universe/3D_Push/blob/master/Assets/Scripts/Attacks/PushForce.cs)
 
@@ -65,7 +67,11 @@ in this level we add fire ball when a player touch it he fly away.
 
 **using script:**
 
-BenMovement.cs [code here](https://github.com/Lba-universe/3D_Push/blob/master/Assets/Scripts/Movers/BenMovement.cs)
+all:
+
+liftAndThrowAway.cs [code here](https://github.com/Lba-universe/liftUp-throwsAway/blob/master/Assets/Scripts/Attacks/LiftUpAndThrowAway.cs)
+
+MoveByForce.cs [code here](https://github.com/Lba-universe/3D_Push/blob/master/Assets/Scripts/Movers/BenMovement.cs)
 
 PushHim.cs  [code here](https://github.com/Lba-universe/3D_Push/blob/master/Assets/Scripts/Attacks/PushForce.cs)
 
